@@ -4,11 +4,11 @@ Some mods I have created for Icarus includes Mini_Generator_P.pak from Jimk72
 the list is fairly long for the things that have been modified.
 
 armor changes:
-battle armor has a higher stelth damage
-forageing armor auto pick up for wood
-wayfineder armor has movement speed boost
+battle armor has a higher stealth damage
+foraging armor auto pick up for wood
+wayfarer armor has movement speed boost
 
-modifyed recipies:
+modified recipes:
 electronics are crafted in batches of 5
 aluminium buldings use aluminium to craft
 
@@ -26,14 +26,14 @@ meta extractor has a better drill speed
 meta power source is doubled in power
 
 envirosuits:
-the hark has heat and cold resistence buffs
+the hark has heat and cold resistance buffs
 the shengong resistances are buffed a bit
-inaris has 4 slots -6 backpack 5 damage resistenace and -5 stealth modifyer
+inaris has 4 slots -6 backpack 5 damage resistance and -5 stealth modifyer
 
 moduals:
 movement module higher movment speed and stamina regen
 slots modules increesed slots and weight
-fire resistane has heat resistance
+fire resistance has heat resistance
 poison resistance has health regen
 carry weight module higher carry weight and lower overencumberance penalty
 
@@ -53,4 +53,4 @@ Deep ore:
 increesed max and min
 decreesed extraction time
 
-exotics extract in 15 seconds each
+exotics extract 15 seconds each
