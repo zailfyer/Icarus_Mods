@@ -50,7 +50,7 @@ resouce stacks for wood and stone weight reduced to be 100 time wood or stone
 MXC campfire weight reduced
 
 Deep ore:
-increesed max and min
-decreesed extraction time
+increased max and min
+decreased extraction time
 
 exotics extract 15 seconds each
