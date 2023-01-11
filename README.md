@@ -32,17 +32,17 @@ inaris has 4 slots -6 backpack 5 damage resistance and -5 stealth modifyer
 
 moduals:
 movement module higher movment speed and stamina regen
-slots modules increesed slots and weight
+slots modules increased slots and weight
 fire resistance has heat resistance
 poison resistance has health regen
 carry weight module higher carry weight and lower overencumberance penalty
 
 backpacks:
-mineing pack better weight reducting  and stone weight reduction  axe wear weights reduced
-archry pack reduced wear weight  increesed damaged
-survival pack higher falling resistance increesed sprint stamina lower stamina cost
+mining pack better weight reducting  and stone weight reduction  axe wear weights reduced
+archery pack reduced wear weight  increased damaged
+survival pack higher falling resistance increased sprint stamina lower stamina cost
 shotgun pack also gives buffs to rifles
-bigger pack gives wightcap exotics weight lessend
+bigger pack gives wightcap exotics weight lessened
 
 itme stack:
 many items have higher stacks
@@ -54,3 +54,5 @@ increased max and min
 decreased extraction time
 
 exotics extract 15 seconds each
+
+spelling help by Aurokon and Fugue2005
