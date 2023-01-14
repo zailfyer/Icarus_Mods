@@ -2,59 +2,59 @@
 Some mods I have created for Icarus
 
 # Zailfyers_Aluminum_Building
-* Increesas durability
-* Increses insulation
-* increses wind and tree resistance
+* Increases durability
+* Increases insulation
+* Increases wind and tree resistance
 * Changes recipe to use aluminum ingots insted of ore
 
 # Zailfyers_Armor
-* ST 700 has higher stealth modifyer
+* ST 700 has higher stealth modifier
 * CX 400 has auto wood pickup
-* Wayfarer has movment speed boost
+* Wayfarer has movement speed boost
 
 # Zailfyers_Backpacks
-* Lether Backpack has better weight reduction and carry weight buff
+* Leather Backpack has better weight reduction and carry weight buff
 * survival backpack has sprint stamina reduction, more movement speed, and better fall resistence
-* Gatheres Backpack has stone weight reduction axe and pick were rate reduction
-* Archers Backpack has decreesed wear rate of bows and increesed damage
-* Mercenary backpack has rifle buff and reduced were rate of firearms
-* tactical backpack has increesed carry weight and decresed exotic weight
+* Gathers Backpack has stone weight reduction axe and pick wear rate reduction
+* Archers Backpack has decreased wear rate of bows and increased damage
+* Mercenary backpack has rifle buff and reduced wear rate of firearms
+* Tactical backpack has increased carry weight and decreased exotic weight
 
 # Zailfyers_Deep_Ore_Extraction
-* Deep ore deposets have more ore and extract faster
+* Deep ore deposits have more ore and extract faster
 
 # Zailfyers_Dropship
 * Drop ship has 20 slots
 
 # Zailfyers_Envirosuits
-* Hark has heat and cold resisteace
-* Bihu has extra heat resistace, damage resisteace, and less presived threat
-* Dongtian has extra cold resistace, damage resisteace, and less presived threat
-* Lua has 4 modual slots, less backpack slots, damage resisteace, and less presived threat
+* Hark has heat and cold resistance
+* Bihu has extra heat resistance, damage resistance, and less perceived threat
+* Dongtian has extra cold resistance, damage resistance, and less perceived threat
+* Lua has 4 modual slots, less backpack slots, damage resistance, and less perceived threat
 
-# Zailfyers_Exsotics_Extraction
+# Zailfyers_Exotics_Extraction
 * exotics extract base 15
 * workshop drill has 50% drill speed
 * workshop power source has double power
-* speiret walk has betweek 3 and 6 exotic nodes
+* spirit walk has between 3 and 6 exotic nodes
 
 # Zailfyers_Moduals
-* Movment modual has more speed and sprinting cost less stamina
-* slots 1 modual has 3 slots and increesed carry weight
-* slots 2 modual has 6 slots and increesed carry weight
-* fire resistance modual also has heat resistace
-* poison modual also halfs poison duration
-* carry weight modual gives more carry weight and lesens the overencomberd penalty
+* Movement modual has more speed and sprinting cost less stamina
+* slots 1 modual has 3 slots and increased carry weight
+* slots 2 modual has 6 slots and increased carry weight
+* fire resistance modual also has heat resistance
+* poison modual also halves poison duration
+* carry weight modual gives more carry weight and lessens the overencumbered penalty
 
 # Zailfyers_Stacks_Recipes
-* many stack counts increesed
+* many stack counts increased
 * electronics are made in batches of 5
 
 # Zailfyers_Workshop_Tools
-* Inaris Dias Axe slightly increesed all stats and felling reward bonuse to match pick
+* Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick
 * Shengong Jushi Pickaxe has better rewards 
 * Shengong Sui Shi Pickaxe has better rewards
-* Inaris Neves Pickaxe slightyl increesed all states
+* Inaris Neves Pickaxe slightly increeaed all states
 * Larkwell Sickle has better rewards
 * mxc furnace is like a concrete furnace
 * mxc campfire is lighter
