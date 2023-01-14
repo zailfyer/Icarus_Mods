@@ -1,58 +1,71 @@
-# Icarus_Mods
-Some mods I have created for Icarus includes Mini_Generator_P.pak from Jimk72
+# Zailfyers_Icarus_Mods
+Some mods I have created for Icarus
 
-the list is fairly long for the things that have been modified.
+# Zailfyers_Aluminum_Building
+* Increesas durability
+* Increses insulation
+* increses wind and tree resistance
+* Changes recipe to use aluminum ingots insted of ore
 
-armor changes:
-battle armor has a higher stealth damage
-foraging armor auto pick up for wood
-wayfarer armor has movement speed boost
+# Zailfyers_Armor
+* ST 700 has higher stealth modifyer
+* CX 400 has auto wood pickup
+* Wayfarer has movment speed boost
 
-modified recipes:
-electronics are crafted in batches of 5
-aluminium buldings use aluminium to craft
+# Zailfyers_Backpacks
+* Lether Backpack has better weight reduction and carry weight buff
+* survival backpack has sprint stamina reduction, more movement speed, and better fall resistence
+* Gatheres Backpack has stone weight reduction axe and pick were rate reduction
+* Archers Backpack has decreesed wear rate of bows and increesed damage
+* Mercenary backpack has rifle buff and reduced were rate of firearms
+* tactical backpack has increesed carry weight and decresed exotic weight
 
-dropship:
-has 20 slots
+# Zailfyers_Deep_Ore_Extraction
+* Deep ore deposets have more ore and extract faster
 
-items:
-aluminium buildings have better durability
-the gold and copper pick has better buffs to them
-the iron pick has a better buff
-inaris axe gives better wood rewards
-inaris pick gives better ore rewards
-MXC furnace works as a concrete furnace
-meta extractor has a better drill speed
-meta power source is doubled in power
+# Zailfyers_Dropship
+* Drop ship has 20 slots
 
-envirosuits:
-the hark has heat and cold resistance buffs
-the shengong resistances are buffed a bit
-inaris has 4 slots -6 backpack 5 damage resistance and -5 stealth modifyer
+# Zailfyers_Envirosuits
+* Hark has heat and cold resisteace
+* Bihu has extra heat resistace, damage resisteace, and less presived threat
+* Dongtian has extra cold resistace, damage resisteace, and less presived threat
+* Lua has 4 modual slots, less backpack slots, damage resisteace, and less presived threat
 
-moduals:
-movement module higher movment speed and stamina regen
-slots modules increased slots and weight
-fire resistance has heat resistance
-poison resistance has health regen
-carry weight module higher carry weight and lower overencumberance penalty
+# Zailfyers_Exsotics_Extraction
+* exotics extract base 15
+* workshop drill has 50% drill speed
+* workshop power source has double power
+* speiret walk has betweek 3 and 6 exotic nodes
 
-backpacks:
-mining pack better weight reducting  and stone weight reduction  axe wear weights reduced
-archery pack reduced wear weight  increased damaged
-survival pack higher falling resistance increased sprint stamina lower stamina cost
-shotgun pack also gives buffs to rifles
-bigger pack gives wightcap exotics weight lessened
+# Zailfyers_Moduals
+* Movment modual has more speed and sprinting cost less stamina
+* slots 1 modual has 3 slots and increesed carry weight
+* slots 2 modual has 6 slots and increesed carry weight
+* fire resistance modual also has heat resistace
+* poison modual also halfs poison duration
+* carry weight modual gives more carry weight and lesens the overencomberd penalty
 
-itme stack:
-many items have higher stacks
-resouce stacks for wood and stone weight reduced to be 100 time wood or stone
-MXC campfire weight reduced
+# Zailfyers_Stacks_Recipes
+* many stack counts increesed
+* electronics are made in batches of 5
 
-Deep ore:
-increased max and min
-decreased extraction time
+# Zailfyers_Workshop_Tools
+* Inaris Dias Axe slightly increesed all stats and felling reward bonuse to match pick
+* Shengong Jushi Pickaxe has better rewards 
+* Shengong Sui Shi Pickaxe has better rewards
+* Inaris Neves Pickaxe slightyl increesed all states
+* Larkwell Sickle has better rewards
+* mxc furnace is like a concrete furnace
+* mxc campfire is lighter
 
-exotics extract 15 seconds each
+# Zailfyers_Mod_Pack
+* includes all that is listed
 
-spelling help by Aurokon and Fugue2005
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
+
+EASY INSTALLATION: use the mod manager by Jimk72 https://github.com/Jimk72/Icarus_Software
+
+MANUAL INSTALLATION: if you do not already have one, you need to create a new folder and name it 'mods' in the following directory - Disk > Program Files (x86) > steamapps > common > Icarus > Icarus > Content > Paks. Download desired .pak files, and drag and drop into the mods folder you created. Good to go!
