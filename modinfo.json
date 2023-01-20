@@ -89,6 +89,28 @@
       "readmeURL": ""
     },
     {
+      "name": "Zailfyers_Rebalanced_Animal_Loot",
+      "author": "Zailfyer",
+      "version": "1.0.0",
+      "compatibility": "w58",
+      "description": "does what the title says, likely will be tweeked in the future",
+      "fileType": "pak",
+      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Rebalanced_Animal_Loot_P.pak",
+      "imageURL": "",
+      "readmeURL": ""
+    },
+    {
+      "name": "Zailfyers_Rebalanced_Rewards",
+      "author": "Zailfyer",
+      "version": "1.0.0",
+      "compatibility": "w58",
+      "description": "Increases exotic reward range for horde mode, increases ice for shovel use",
+      "fileType": "pak",
+      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Rebalanced_Rewards_P.pak",
+      "imageURL": "",
+      "readmeURL": ""
+    },
+    {
       "name": "Zailfyers_Stacks_Recipes",
       "author": "Zailfyer",
       "version": "1.0.0",
