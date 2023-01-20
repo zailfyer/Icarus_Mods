@@ -43,8 +43,15 @@ Some mods I have created for Icarus
 * slots 1 modual has 3 slots and increased carry weight
 * slots 2 modual has 6 slots and increased carry weight
 * fire resistance modual also has heat resistance
-* poison modual also halves poison duration
+* poison modual also shortens poison duration
 * carry weight modual gives more carry weight and lessens the overencumbered penalty
+
+# Zailfyers_Rebalanced_Animal_Loot
+*does what the title says, could be tweeked in the future
+
+# Zailfyers_Rebalanced_Rewards
+* Increases exotics reward range for horde mode
+* Increases ice reward from shovel
 
 # Zailfyers_Stacks_Recipes
 * many stack counts increased
