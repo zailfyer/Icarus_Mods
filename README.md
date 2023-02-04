@@ -20,6 +20,12 @@ Some mods I have created for Icarus
 * Mercenary backpack has rifle buff and reduced wear rate of firearms
 * Tactical backpack has increased carry weight and decreased exotic weight
 
+# Zailfyers_Charcoal_and_Ash
+* makes charcoal a fule for any thing that burns wood
+* reworks how to get charcoal and ash
+* adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer
+* adds new item Ash can be used to make better fertilizer
+
 # Zailfyers_Deep_Ore_Extraction
 * Deep ore deposits have more ore and extract faster
 
@@ -34,7 +40,7 @@ Some mods I have created for Icarus
 
 # Zailfyers_Exotics_Extraction
 * exotics extract base 15
-* workshop drill has 50% drill speed
+* workshop drill has 66% drill speed
 * workshop power source has double power
 * spirit walk has between 3 and 6 exotic nodes
 
@@ -64,7 +70,7 @@ Some mods I have created for Icarus
 * Inaris Neves Pickaxe slightly increeaed all states
 * Larkwell Sickle has better rewards
 * mxc furnace is like a concrete furnace
-* mxc campfire is lighter
+* mxc campfire is lighter and has 2 more inventory slots
 
 # Zailfyers_Mod_Pack
 * includes all that is listed
