@@ -4,155 +4,170 @@
       "name": "Zailfyers_Aluminum_Building",
       "author": "Zailfyer",
       "version": "1.0.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "Increases durability, Increases insulation, Increases wind and tree resistance, Changes recipe to use aluminum ingots insted of ore",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Aluminum_Building_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Aluminum_Building_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Aluminum_Building.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Armor",
       "author": "Zailfyer",
       "version": "1.0.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "ST 700 has higher stealth modifier, CX 400 has auto wood pickup, Wayfarer has movement speed boost",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Armor_P.pak",
       "imageURL": "",
-      "readmeURL": ""
-    },
-    {
-      "name": "Zailfyers_Charcoal_And_Ash",
-      "author": "Zailfyer",
-      "version": "1.0.0",
-      "compatibility": "w61",
-      "description": "makes charcoal a fule for any thing that burns wood, reworks how to get charcoal and ash, adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer, adds new item Ash can be used to make better fertilizer",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Charcoal_And_Ash_P.pak",
-      "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Armor_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Armor.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Backpacks",
       "author": "Zailfyer",
       "version": "1.0.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "Leather Backpack has better weight reduction and carry weight buff, survival backpack has sprint stamina reduction, more movement speed, and better fall resistence, Gathers Backpack has stone weight reduction axe and pick wear rate reduction, Archers Backpack has decreased wear rate of bows and increased damage, Mercenary backpack has rifle buff and reduced wear rate of firearms, Tactical backpack has increased carry weight and decreased exotic weight",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Backpacks_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Backpacks_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Backpacks.EXMODZ"
+      }
+    },
+    {
+      "name": "Zailfyers_Charcoal_And_Ash",
+      "author": "Zailfyer",
+      "version": "1.0.0",
+      "compatibility": "61",
+      "description": "makes charcoal a fule for any thing that burns wood, reworks how to get charcoal and ash, adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer, adds new item Ash can be used to make better fertilizer",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Charcoal_And_Ash_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Charcoal_And_Ash.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Deep_Ore_Extraction",
       "author": "Zailfyer",
       "version": "1.0.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "Deep ore deposits have more ore and extract faster",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Deep_Ore_Extraction_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Deep_Ore_Extraction_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Deep_Ore_Extraction.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Dropship",
       "author": "Zailfyer",
       "version": "1.1.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "Drop ship has 20 slots, as well as the canteen and O2 bottle no longer auto equip to the quick bar",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Dropship_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Dropship_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Dropship.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Envirosuits",
       "author": "Zailfyer",
       "version": "1.0.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "Hark has heat and cold resistance, Bihu has extra heat resistance, damage resistance, and less perceived threat, Dongtian has extra cold resistance, damage resistance, and less perceived threat, Lua has 4 modual slots, less backpack slots, damage resistance, and less perceived threat",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Envirosuits_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Envirosuits_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Envirosuits.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Exotics_Extraction",
       "author": "Zailfyer",
       "version": "1.1.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "exotics extract base 15, workshop drill has 66% drill speed, workshop power source has double power, spirit walk has between 3 and 6 exotic nodes",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Exsotics_Extraction_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Exsotics_Extraction_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Exsotics_Extraction.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Moduals",
       "author": "Zailfyer",
       "version": "1.1.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "Movement modual has more speed and sprinting cost less stamina, slots 1 modual has 3 slots and increased carry weight, slots 2 modual has 6 slots and increased carry weight, fire resistance modual also has heat resistance, poison modual also halves poison duration, carry weight modual gives more carry weight and lessens the overencumbered penalty",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Moduals_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Moduals_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Moduals.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Rebalanced_Animal_Loot",
       "author": "Zailfyer",
       "version": "1.0.1",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "does what the title says, likely will be tweeked in the future",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Rebalanced_Animal_Loot_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Rebalanced_Animal_Loot_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Rebalanced_Animal_Loot.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Rebalanced_Rewards",
       "author": "Zailfyer",
       "version": "1.0.1",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "Increases exotic reward range for horde mode, increases ice for shovel use",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Rebalanced_Rewards_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Rebalanced_Rewards_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Rebalanced_Rewards.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Stacks_Recipes",
       "author": "Zailfyer",
       "version": "1.0.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "many stack counts increased, electronics are made in batches of 5",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Stacks_Recipes_P.pak",
       "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Stacks_Recipes_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Stacks_Recipes.EXMODZ"
+      }
     },
     {
       "name": "Zailfyers_Workshop_Tools",
       "author": "Zailfyer",
       "version": "1.1.0",
-      "compatibility": "w61",
+      "compatibility": "61",
       "description": "Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick, Shengong Jushi Pickaxe has better rewards, Shengong Sui Shi Pickaxe has better rewards, Inaris Neves Pickaxe slightly increeaed all states, Larkwell Sickle has better rewards, mxc furnace is like a concrete furnace, mxc campfire is lighter with more slots",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Workshop_Tools_P.pak",
       "imageURL": "",
-      "readmeURL": ""
-    },
-    {
-      "name": "Zailfyers_Mod_Pack",
-      "author": "Zailfyer",
-      "version": "1.2.0",
-      "compatibility": "w61",
-      "description": "includes all my mods",
-      "fileType": "pak",
-      "fileURL": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Mod_Pack_P.pak",
-      "imageURL": "",
-      "readmeURL": ""
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Workshop_Tools_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Workshop_Tools.EXMODZ"
+      }
     }
-  ]
-}
+   ]
+ }
