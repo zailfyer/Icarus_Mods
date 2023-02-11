@@ -1,6 +1,19 @@
 {
 	"mods": [
 		{
+			"name": "Zailfyers 100 Level Cap",
+			"author": "Zailfyer",
+			"version": "1.0.0",
+			"compatibility": "62",
+			"description": "Incresed level cap to 100 Retaining the same point scale Ending with 120 Talent Points and 50 Solo Points",
+			"imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
+			"readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Z100_README.md",
+			"files": {
+				"pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_100_Level_Cap_P.pak",
+				"exmodz": ""
+			}
+		},
+		{
 			"name": "Zailfyers Aluminum Building",
 			"author": "Zailfyer",
 			"version": "1.0.1",
