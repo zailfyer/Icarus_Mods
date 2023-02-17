@@ -1,4 +1,4 @@
-# Zailfyers_Backpacks
+# Zailfyers Backpacks
 * Leather Backpack has better weight reduction and carry weight buff
 * survival backpack has sprint stamina reduction, more movement speed, and better fall resistence
 * Gathers Backpack has stone weight reduction axe and pick wear rate reduction

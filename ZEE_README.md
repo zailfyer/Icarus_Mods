@@ -1,4 +1,4 @@
-# Zailfyers_Exotics_Extraction
+# Zailfyers Exotics Extraction
 * exotics extract base 15
 * workshop drill has 66% drill speed
 * workshop power source has double power

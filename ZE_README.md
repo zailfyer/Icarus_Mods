@@ -1,4 +1,4 @@
-# Zailfyers_Envirosuits
+# Zailfyers Envirosuits
 * Hark has heat and cold resistance
 * Bihu has extra heat resistance, damage resistance, and less perceived threat
 * Dongtian has extra cold resistance, damage resistance, and less perceived threat

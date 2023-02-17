@@ -1,2 +1,2 @@
-# Zailfyers_Rebalanced_Animal_Loot
-*does what the title says, could be tweeked in the future
+# Zailfyers Rebalanced Animal Loot
+* Rebalances animal loot drops, could be tweeked in the future

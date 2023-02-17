@@ -1,2 +1,2 @@
-# Zailfyers_Dropship
+# Zailfyers Dropship
 * Drop ship has 20 slots

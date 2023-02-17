@@ -1,4 +1,4 @@
-# Zailfyers_Workshop_Tools
+# Zailfyers Workshop Tools
 * Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick
 * Shengong Jushi Pickaxe has better rewards 
 * Shengong Sui Shi Pickaxe has better rewards
