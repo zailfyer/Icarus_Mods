@@ -1,32 +1,22 @@
 # Zailfyers Icarus Mods
 Some mods I have created for Icarus
 
-# Zailfyers 100 Level Cap
-* incresed level cap to 100
-* incresed tallent points to 120 gaining points the same after level 50 as you did up to 50
-* incresed solo talent points to 50 gaining the same after level 50 as you did up to 50
-
-***NOTES***
-* if you have played alot after reaching level 50 this mod will take that expience in to acount when installed putting you at the appropriate level
-* it is posible that you will instantly be at level 100. if you would like to have the expierence of leveling up thrue the levels as I did you can edit your charecters xp value to roghly 3900000. this will put your charactor most of the way thru level 50.
-* the file containing your charactors xp value shold be located C:\Users\:Username:\AppData\Local\Icarus\Saved\PlayerData\:IDNumber:\Characters.json
-* use the points as soon as you get them to avoid losing them  I think the next level up would give them back again for the time but have not tested this.
-
 # Zailfyers Aluminum Building
 * Increases durability
 * Increases insulation
 * Increases wind and tree resistance
+* Increases stability
 * Changes recipe to use aluminum ingots insted of ore
 
 # Zailfyers Armor
-* ST 700 has higher stealth modifier
-* CX 400 has auto wood pickup
-* Wayfarer has movement speed boost
+* ST 700 has higher stealth modifier and stamina regen bonus
+* CX 400 has auto wood pickup and stamina bonuses
+* Wayfarer has movement speed boost and stamina regen bonus
 
 # Zailfyers Backpacks
 * Leather Backpack has better weight reduction and carry weight buff
 * survival backpack has sprint stamina reduction, more movement speed, and better fall resistence
-* Gathers Backpack has stone weight reduction axe and pick wear rate reduction
+* Gathers Backpack has stone weight reduction, axe and pick wear rate reduction, and pneumonia resistance
 * Archers Backpack has decreased wear rate of bows and increased damage
 * Mercenary backpack has rifle buff and reduced wear rate of firearms
 * Tactical backpack has increased carry weight and decreased exotic weight
@@ -42,6 +32,7 @@ Some mods I have created for Icarus
 
 # Zailfyers Dropship
 * Drop ship has 20 slots
+* O2 tank and cantine are not automatically added to quick bar
 
 # Zailfyers Envirosuits
 * Hark has heat and cold resistance
@@ -67,12 +58,12 @@ Some mods I have created for Icarus
 * rebalances the loot drops from animals, could be tweeked in the future
 
 # Zailfyers Rebalanced Rewards
-* Increases exotics reward range for horde mode
-* Increases ice reward from shovel
+* Increases exotics and enzyme reward range for horde mode
+* Increases ice reward from shovel and hand pick up
 
 # Zailfyers Stacks Recipes
 * many stack counts increased
-* electronics are made in batches of 5
+* electronics are cheeper
 
 # Zailfyers Workshop Tools
 * Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick
