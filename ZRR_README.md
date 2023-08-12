@@ -1,4 +1,3 @@
 # Zailfyers Rebalanced Rewards
-* Increases exotics reward range for horde mode
-* Increases vapor reward range for horde mode
-* Increases ice reward from shovel
+* Increases exotics and enzyme reward range for horde mode
+* Increases ice reward from shovel and hand pick up
