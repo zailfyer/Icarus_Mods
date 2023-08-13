@@ -170,9 +170,9 @@
       }
     },
     {
-      "name": "Zailfyers_Mod_Pack",
+      "name": "Zailfyers Mod Pack",
       "author": "Zailfyer",
-      "version": "1.4.0",
+      "version": "2.0.0",
       "compatibility": "w88",
       "description": "includes all my mods",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -180,6 +180,19 @@
       "files": {
           "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Mod_Pack_P.pak",
           "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Mod_Pack.EXMODZ"
+      }
+    },
+    {
+      "name": "Zailfyers 100 Level Cap",
+      "author": "Zailfyer",
+      "version": "2.0",
+      "compatibility": "w88",
+      "description": "Increases max level to 100 with the same scale for points",
+      "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
+      "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAB_README.md",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_100_Level_Cap_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_100_Level_Cap.EXMODZ"
       }
     }
    ]
