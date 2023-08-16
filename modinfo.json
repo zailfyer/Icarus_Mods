@@ -42,7 +42,7 @@
     {
       "name": "Zailfyers Charcoal and Ash",
       "author": "Zailfyer",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "compatibility": "w88",
       "description": "makes charcoal a fule for any thing that burns wood, reworks how to get charcoal and ash, adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer, adds new item Ash can be used to make better fertilizer",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -68,7 +68,7 @@
     {
       "name": "Zailfyers Dropship",
       "author": "Zailfyer",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "compatibility": "w88",
       "description": "Drop ship has 20 slots, as well as the canteen and O2 bottle no longer auto equip to the quick bar",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -159,7 +159,7 @@
     {
       "name": "Zailfyers Workshop Tools",
       "author": "Zailfyer",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "compatibility": "w88",
       "description": "Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick, Shengong Jushi Pickaxe has better rewards, Shengong Sui Shi Pickaxe has better rewards, Inaris Neves Pickaxe slightly increeaed all states, Larkwell Sickle has better rewards, mxc furnace is like a concrete furnace, mxc campfire is lighter with more slots",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -172,7 +172,7 @@
     {
       "name": "Zailfyers Mod Pack",
       "author": "Zailfyer",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "compatibility": "w88",
       "description": "includes all my mods",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -185,7 +185,7 @@
     {
       "name": "Zailfyers 100 Level Cap",
       "author": "Zailfyer",
-      "version": "2.0",
+      "version": "2.0.0",
       "compatibility": "w88",
       "description": "Increases max level to 100 with the same scale for points",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
