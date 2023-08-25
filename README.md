@@ -3,6 +3,7 @@ Some mods I have created for Icarus
 
 # MXC Cot
 * Grants Access to the MXC Cot in the orbital workshop
+	the MXC cot is a portable bed with additional benefits over a bedroll
 
 # Zailfyers 100 Level Cap
 * incresed level cap to 100
@@ -55,7 +56,7 @@ Some mods I have created for Icarus
 * Lua has 4 modual slots, less backpack slots, damage resistance, and less perceived threat
 
 # Zailfyers Exotics Extraction
-* exotics extract base 15
+* exotics extract base 15, red exotics extract base 20
 * workshop drill has 66% drill speed
 * workshop power source has double power
 * spirit walk has between 3 and 6 exotic nodes
@@ -69,7 +70,7 @@ Some mods I have created for Icarus
 * carry weight modual gives more carry weight and lessens the overencumbered penalty
 
 # Zailfyers Rebalanced Animal Loot
-* rebalances the loot drops from animals, could be tweeked in the future
+* rebalances the loot drops from animals, does not include new frontiers animals yet
 
 # Zailfyers Rebalanced Rewards
 * Increases exotics and enzyme reward range for horde mode
