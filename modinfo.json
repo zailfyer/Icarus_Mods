@@ -3,7 +3,7 @@
     {
       "name": "MXC Cot",
       "author": "Zailfyer",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "compatibility": "w90",
       "description": "Grants access to the MXC Cot in the orbital workshop",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -120,7 +120,7 @@
     {
       "name": "Zailfyers Exotics Extraction",
       "author": "Zailfyer",
-      "version": "2.0.1",
+      "version": "2.0.3",
       "compatibility": "w90",
       "description": "exotics extract base 15, Red exotics extract base 20, workshop drill has 66% drill speed, workshop power source has double power, spirit walk has between 3 and 6 exotic nodes",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -133,7 +133,7 @@
     {
       "name": "Zailfyers Mod Pack",
       "author": "Zailfyer",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "compatibility": "w90",
       "description": "Includes all my mods",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
