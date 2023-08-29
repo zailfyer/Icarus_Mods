@@ -42,9 +42,9 @@
     {
       "name": "Zailfyers Armor",
       "author": "Zailfyer",
-      "version": "2.0.0",
+      "version": "2.0.5",
       "compatibility": "w90",
-      "description": "ST 700 has higher stealth modifier and small stamina regen bonus, CX 400 has auto wood pickup as well as stamina bonuses, Wayfarer has movement speed boost and small stamnina regen bonus",
+      "description": "Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZA_README.md",
       "files": {
@@ -55,9 +55,9 @@
     {
       "name": "Zailfyers Backpacks",
       "author": "Zailfyer",
-      "version": "2.0.0",
+      "version": "2.0.5",
       "compatibility": "w90",
-      "description": "Leather Backpack has better weight reduction and carry weight buff, Survival backpack has sprint stamina reduction, more movement speed, and better fall resistence, Gathers Backpack has stone weight reduction, axe and pick wear rate reduction, and pneumonia resistance, Archers Backpack has decreased wear rate of bows and increased damage, Mercenary backpack has rifle buff and reduced wear rate of firearms, Tactical backpack has increased carry weight and decreased exotic weight",
+      "description": "Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZB_README.md",
       "files": {
@@ -107,9 +107,9 @@
     {
       "name": "Zailfyers Envirosuits",
       "author": "Zailfyer",
-      "version": "2.0.0",
+      "version": "2.0.5",
       "compatibility": "w90",
-      "description": "Hark has heat and cold resistance, Bihu has extra heat resistance, damage resistance, and less perceived threat, Dongtian has extra cold resistance, damage resistance, and less perceived threat, Lua has 4 modual slots, less backpack slots, damage resistance, and less perceived threat",
+      "description": "Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZE_README.md",
       "files": {

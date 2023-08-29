@@ -24,17 +24,22 @@ Some mods I have created for Icarus
 * Changes recipe to use aluminum ingots insted of ore
 
 # Zailfyers Armor
-* ST 700 has higher stealth modifier and stamina regen bonus
-* CX 400 has auto wood pickup and stamina bonuses
-* Wayfarer has movement speed boost and stamina regen bonus
+* Cloth added reduced water consumption and heat resistance
+* Fur added cold resistance
+* Ghillie added crouch speed and stealth damage
+* Naneo increased weight capacity and reduced over encumbered penalty
+* ST 700 higher stealth damage, health regen bonus, and stamina regen bonus
+* CX 400 auto wood pickup and stamina regen bonus and removed 1% instant chop and mine
+* Cured Leather higher health and stamina regen and exposure resistance
+* Wayfarer movement speed boost, heat resistance, and increased desert exposure resistnace
 
 # Zailfyers Backpacks
-* Leather Backpack has better weight reduction and carry weight buff
-* survival backpack has sprint stamina reduction, more movement speed, and better fall resistence
-* Gathers Backpack has stone weight reduction, axe and pick wear rate reduction, and pneumonia resistance
-* Archers Backpack has decreased wear rate of bows and increased damage
-* Mercenary backpack has rifle buff and reduced wear rate of firearms
-* Tactical backpack has increased carry weight and decreased exotic weight
+* Leather Backpack has better carry weight buff, and better ore, wood, and stone weight reductions
+* Survival Backpack has sprint stamina reduction, better fall resistance, and broken leg modifier duration shortend
+* Gather's Backpack has stone weight reduction and axe, pick, and sickle wear rate reduction
+* Archer's Backpack has decreased wear rate of bows and increased bow damage
+* Mercenary backpack has rifle and pistol buffs and reduced wear rate of firearms
+* Tactical backpack has increased carry weight
 
 # Zailfyers Charcoal and Ash
 * makes charcoal a fule for any thing that burns wood
@@ -51,9 +56,13 @@ Some mods I have created for Icarus
 
 # Zailfyers Envirosuits
 * Hark has heat and cold resistance
+* Duo has heat and cold resistance and increased damage resistance
+* Fermi has heat and cold resistance and decreased perceived threat
 * Bihu has extra heat resistance, damage resistance, and less perceived threat
 * Dongtian has extra cold resistance, damage resistance, and less perceived threat
-* Lua has 4 modual slots, less backpack slots, damage resistance, and less perceived threat
+* Lua has less backpack slots, damage resistance, and less perceived threat
+* Haulire has water slot added and increases carry capacity
+* Bulwark has 4 modual slots and water slot added
 
 # Zailfyers Exotics Extraction
 * exotics extract base 15, red exotics extract base 20
