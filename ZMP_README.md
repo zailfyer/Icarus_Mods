@@ -1,6 +1,3 @@
-# Zailfyers Icarus Mods
-Some mods I have created for Icarus
-
 # MXC Cot
 * Grants Access to the MXC Cot in the orbital workshop
 * Now you can drop in to a prospect with a bed!
@@ -46,14 +43,15 @@ Some mods I have created for Icarus
 * makes charcoal a fule for any thing that burns wood
 * reworks how to get charcoal and ash. Charcoal is made by prossesing it in a furnace like ore.
 * adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer
-* adds new item Ash can be used to make better fertilizer
+* adds new item Ash can be used to make fertilizer at the Mortor and Pestel
+* makes speed and yeild fertilizer craftable in the Mortor and Pestal
 
 # Zailfyers Deep Ore Extraction
 * Deep ore deposits have more ore and extract faster
 
 # Zailfyers Dropship
 * Drop ship has 20 slots
-* O2 tanks, cantines, and Dropship granades are not automatically added to quick bar
+* O2 tanks, cantines, and Dropship granades are NOT automatically added to quick bar
 
 # Zailfyers Envirosuits
 * Hark has heat and cold resistance
@@ -68,24 +66,26 @@ Some mods I have created for Icarus
 # Zailfyers Exotics Extraction
 * exotics and Red exotics extract base 15
 * workshop drill has 66% drill speed
-* workshop power source has double power
+* workshop power source has more power
 * spirit walk has between 3 and 6 exotic nodes
 * Organic Clenser prosseses exotics faster
-* strange plants produce seeds when planted
+* Strange Plants produce seeds when planted
+* planted Strange Plants have less fatigue
+* Strange Plants in the wild can yieald more exotics
+* Tomatos and Potatos harvested in the wild have a 1% chance to produce Red Exsotic Plant seeds
 
 # Zailfyers Energy Prodcution
 * Biofule Generator produces 7500
-* Water Wheel produces 2500
-* Wind Turbine produces 2500
+* Water Wheel produces 5000
+* Wind Turbine produces 3000
 
 # Zailfyers Moduals
 * Duplicate modual debuff has been removed on most moduals
-* Movement modual has more speed
-* slots 1 modual has 3 slots and increased carry weight
-* slots 2 modual has 6 slots and increased carry weight
-* fire resistance modual also has heat resistance
-* poison modual also shortens poison duration
-* carry weight modual gives more carry weight and lessens the overencumbered penalty
+* Patcher I Module has increased carry weight
+* Patcher II Module has increased carry weight
+* Lowburn Module also has heat resistance
+* Detoxifier Module also shortens poison duration
+* AdLift Module gives more carry weight and lessens the overencumbered penalty
 * NEW Tinentibus Module give instant chop and instant mine chance
 * NEW Mass Dampener II Module give higher speed buff and reduces stamina consumed wile sprinting
 
@@ -96,6 +96,9 @@ Some mods I have created for Icarus
 * Increases exotics and enzyme reward range for horde mode
 * Increases ice reward from shovel and hand pick up
 * increases wood amount from drift wood
+
+# Zailfyers Sledgehammer Talent
+* makes Miner Endurance I and Miner Endurance II Talents effect the sledgehammer as well
 
 # Zailfyers Starter Kits
 * NEW kit in workshop for tier 3 benches
@@ -119,10 +122,10 @@ Some mods I have created for Icarus
 * electric lights are cheeper
 
 # Zailfyers Workshop Tools
-* Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick
-* Shengong Jushi Pickaxe has better rewards 
-* Shengong Sui Shi Pickaxe has better rewards
-* Inaris Neves Pickaxe slightly increeaed all states
-* Larkwell Sickle has better rewards
-* mxc furnace is like a concrete furnace
+* Reworks all the damage and durability of workshop tools to be closer to the craftable versions
+* many workshop items have there bonus stats tweeked in minor ways
+* mxc furnace has its own recipe list with utility inbetween the stone furnace and the concrete furnace
 * mxc campfire is lighter and has 2 more inventory slots
+* NEW Inaris "Ligna" Axe an axe tailord for deforestation
+* NEW Inaris "Venator" Knife the ultimat hunting tool
+* NEW Inaris "Delver" Pickaxe an ideal pickaxe for all your mineing needs
