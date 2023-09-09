@@ -3,8 +3,8 @@
     {
       "name": "MXC Cot",
       "author": "Zailfyer",
-      "version": "1.0.1",
-      "compatibility": "w91",
+      "version": "1.1.0",
+      "compatibility": "w92",
       "description": "Grants access to the MXC Cot in the orbital workshop",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/MXCCOT_README.md",
@@ -16,8 +16,8 @@
     {
       "name": "Zailfyers 100 Level Cap",
       "author": "Zailfyer",
-      "version": "2.0.0",
-      "compatibility": "w91",
+      "version": "2.1.0",
+      "compatibility": "w92",
       "description": "Increases max level to 100 with the same scale for points",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Z100_README.md",
@@ -29,8 +29,8 @@
     {
       "name": "Zailfyers Aluminum Building",
       "author": "Zailfyer",
-      "version": "2.0.1",
-      "compatibility": "w91",
+      "version": "2.1.0",
+      "compatibility": "w92",
       "description": "Increases durability, Increases insulation, Increases wind and tree resistance, Increases stability, and Changes recipe to use aluminum ingots insted of ore",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAB_README.md",
@@ -42,9 +42,9 @@
     {
       "name": "Zailfyers Armor",
       "author": "Zailfyer",
-      "version": "2.0.5",
-      "compatibility": "w91",
-      "description": "Refer to readme for details",
+      "version": "2.1.0",
+      "compatibility": "w92",
+      "description": "Refer to readme for details ",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZA_README.md",
       "files": {
@@ -55,8 +55,8 @@
     {
       "name": "Zailfyers Backpacks",
       "author": "Zailfyer",
-      "version": "2.1.0",
-      "compatibility": "w91",
+      "version": "2.2.0",
+      "compatibility": "w92",
       "description": "Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZB_README.md",
@@ -68,9 +68,9 @@
     {
       "name": "Zailfyers Charcoal and Ash",
       "author": "Zailfyer",
-      "version": "2.0.3",
-      "compatibility": "w91",
-      "description": "makes charcoal a fule for any thing that burns wood, reworks how to get charcoal and ash, adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer, adds new item Ash can be used to make better fertilizer",
+      "version": "2.1.0",
+      "compatibility": "w92",
+      "description": "makes charcoal a fule for any thing that burns wood, reworks how to get charcoal and ash, adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer, adds new item Ash can be used to make fertilizer",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZCA_README.md",
       "files": {
@@ -81,8 +81,8 @@
     {
       "name": "Zailfyers Deep Ore Extraction",
       "author": "Zailfyer",
-      "version": "2.0.2",
-      "compatibility": "w91",
+      "version": "2.1.0",
+      "compatibility": "w92",
       "description": "Deep ore deposits have more ore and extract faster",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZDOE_README.md",
@@ -94,8 +94,8 @@
     {
       "name": "Zailfyers Dropship",
       "author": "Zailfyer",
-      "version": "2.1.0",
-      "compatibility": "w91",
+      "version": "2.2.0",
+      "compatibility": "w92",
       "description": "Drop ship has 20 slots, as well as the canteens, O2 bottles, and dropship grenades no longer auto equip to the quick bar",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZD_README.md",
@@ -107,8 +107,8 @@
     {
       "name": "Zailfyers Energy Production",
       "author": "Zailfyer",
-      "version": "1.0.0",
-      "compatibility": "w91",
+      "version": "1.2.0",
+      "compatibility": "w92",
       "description": "Changed the bio fule generator to produce 7500, the water wheel to produce 2500, and the wind turbine to produce 2500",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZEP_README.md",
@@ -120,8 +120,8 @@
     {
       "name": "Zailfyers Envirosuits",
       "author": "Zailfyer",
-      "version": "2.1.0",
-      "compatibility": "w91",
+      "version": "2.2.0",
+      "compatibility": "w92",
       "description": "Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZE_README.md",
@@ -133,8 +133,8 @@
     {
       "name": "Zailfyers Exotics Extraction",
       "author": "Zailfyer",
-      "version": "2.1.0",
-      "compatibility": "w91",
+      "version": "2.2.0",
+      "compatibility": "w92",
       "description": "exotics and red exotics extract base 15, workshop drill has 66% drill speed, workshop power source has double power, spirit walk has between 3 and 6 exotic nodes, Organic Clenser shold produce Red Exotics faster. and farming strange plants produce seeds alongh with red exotics",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZEE_README.md",
@@ -146,8 +146,8 @@
     {
       "name": "Zailfyers Moduals",
       "author": "Zailfyer",
-      "version": "2.0.0",
-      "compatibility": "w91",
+      "version": "2.1.0",
+      "compatibility": "w92",
       "description": "Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZM_README.md",
@@ -159,8 +159,8 @@
     {
       "name": "Zailfyers Rebalanced Animal Loot",
       "author": "Zailfyer",
-      "version": "2.0.2",
-      "compatibility": "w91",
+      "version": "2.1.0",
+      "compatibility": "w92",
       "description": "Rebalances what you get from animals,dose not include the newest animlals yet as i dont know what feals right for there tweeks yet.",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZRAL_README.md",
@@ -172,8 +172,8 @@
     {
       "name": "Zailfyers Rebalanced Rewards",
       "author": "Zailfyer",
-      "version": "2.0.3",
-      "compatibility": "w91",
+      "version": "2.1.0",
+      "compatibility": "w92",
       "description": "Increases exotic and enzyme reward range for horde mode, increases ice for shovel and pickup",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZRR_README.md",
@@ -183,10 +183,23 @@
       }
     },
     {
+      "name": "Zailfyers_Sledgehammer_Talent",
+      "author": "Zailfyer",
+      "version": "1.0.0",
+      "compatibility": "w92",
+      "description": "This mod makes the talent for pickaxe stamina cost also effect the sledgehammer.",
+      "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
+      "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZST_README.md",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Sledgehammer_Talent_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Sledgehammer_Talent.EXMODZ"
+      }
+    },
+    {
       "name": "Zailfyers Stacks Recipes",
       "author": "Zailfyer",
-      "version": "2.0.5",
-      "compatibility": "w91",
+      "version": "2.1.0",
+      "compatibility": "w92",
       "description": "many stack counts increased, electronics are cheaper",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZSR_README.md",
@@ -198,8 +211,8 @@
     {
       "name": "Zailfyers Starter Kits",
       "author": "Zailfyer",
-      "version": "1.0.0",
-      "compatibility": "w91",
+      "version": "1.0.1",
+      "compatibility": "w92",
       "description": "Add 2 kits to the orbital workshop containing a bunch of workbenches for t3 and t4 respectivly.",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZSK_README.md",
@@ -211,9 +224,9 @@
     {
       "name": "Zailfyers Workshop Tools",
       "author": "Zailfyer",
-      "version": "2.0.2",
-      "compatibility": "w91",
-      "description": "Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick, Shengong Jushi Pickaxe has better rewards, Shengong Sui Shi Pickaxe has better rewards, Inaris Neves Pickaxe slightly increeaed all states, Larkwell Sickle has better rewards, mxc furnace is like a concrete furnace, mxc campfire is lighter with more slots",
+      "version": "2.1.0",
+      "compatibility": "w92",
+      "description": "Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick, Shengong Jushi Pickaxe has better rewards, Shengong Sui Shi Pickaxe has better rewards, Inaris Neves Pickaxe slightly increeaed all states, Larkwell Sickle has better rewards, mxc furnace has its own recipes and can run outside, mxc campfire is lighter with more slots",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZWT_README.md",
       "files": {
@@ -224,8 +237,8 @@
     {
       "name": "Zailfyers Mod Pack",
       "author": "Zailfyer",
-      "version": "2.1.0",
-      "compatibility": "w91",
+      "version": "2.2.0",
+      "compatibility": "w92",
       "description": "Includes all my mods",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZMP_README.md",
