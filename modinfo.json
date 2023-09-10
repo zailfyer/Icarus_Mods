@@ -29,9 +29,9 @@
     {
       "name": "Zailfyers Aluminum Building",
       "author": "Zailfyer",
-      "version": "2.1.0",
+      "version": "2.2.0",
       "compatibility": "w92",
-      "description": "Increases durability, Increases insulation, Increases wind and tree resistance, Increases stability, and Changes recipe to use aluminum ingots insted of ore",
+      "description": "Increases durability, insulation, wind, and tree resistance, Increases stability, and Changes recipe to use aluminum ingots insted of ore also makes scoria building stats the same as stone wile increasing both brick buildings to what scoria was (what i think was intended based on teir availibily)",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAB_README.md",
       "files": {
@@ -42,9 +42,9 @@
     {
       "name": "Zailfyers Armor",
       "author": "Zailfyer",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "compatibility": "w92",
-      "description": "Refer to readme for details ",
+      "description": "Chnages many armor set bonuses. Refer to readme for details ",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZA_README.md",
       "files": {
@@ -55,9 +55,9 @@
     {
       "name": "Zailfyers Backpacks",
       "author": "Zailfyer",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "compatibility": "w92",
-      "description": "Refer to readme for details",
+      "description": "changeds all the backpack stats and adds a new backpack. Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZB_README.md",
       "files": {
@@ -107,9 +107,9 @@
     {
       "name": "Zailfyers Energy Production",
       "author": "Zailfyer",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "compatibility": "w92",
-      "description": "Changed the bio fule generator to produce 7500, the water wheel to produce 2500, and the wind turbine to produce 2500",
+      "description": "Changed the bio fule generator to produce 7500, the water wheel to produce 5000, and the wind turbine to produce 3000",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZEP_README.md",
       "files": {
@@ -120,9 +120,9 @@
     {
       "name": "Zailfyers Envirosuits",
       "author": "Zailfyer",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "compatibility": "w92",
-      "description": "Refer to readme for details",
+      "description": "Changes the stats granted by most of the envirosuits Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZE_README.md",
       "files": {
@@ -133,9 +133,9 @@
     {
       "name": "Zailfyers Exotics Extraction",
       "author": "Zailfyer",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "compatibility": "w92",
-      "description": "exotics and red exotics extract base 15, workshop drill has 66% drill speed, workshop power source has double power, spirit walk has between 3 and 6 exotic nodes, Organic Clenser shold produce Red Exotics faster. and farming strange plants produce seeds alongh with red exotics",
+      "description": "exotics and red exotics extract base 15, workshop drill has 66% drill speed, workshop power source has more power, spirit walk has between 3 and 6 exotic nodes, Organic Clenser produce Red Exotics faster. and farming strange plants produce seeds alongh with red exotics",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZEE_README.md",
       "files": {
@@ -146,9 +146,9 @@
     {
       "name": "Zailfyers Moduals",
       "author": "Zailfyer",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "compatibility": "w92",
-      "description": "Refer to readme for details",
+      "description": "modifys the stats of a number of modules and adds 2 new ones Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZM_README.md",
       "files": {
@@ -224,9 +224,9 @@
     {
       "name": "Zailfyers Workshop Tools",
       "author": "Zailfyer",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "compatibility": "w92",
-      "description": "Inaris Dias Axe slightly increased all stats and felling reward bonus to match pick, Shengong Jushi Pickaxe has better rewards, Shengong Sui Shi Pickaxe has better rewards, Inaris Neves Pickaxe slightly increeaed all states, Larkwell Sickle has better rewards, mxc furnace has its own recipes and can run outside, mxc campfire is lighter with more slots",
+      "description": "modifys nearly all the workshop tools and adds a new knife axe and pickaxe. see README for details.",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZWT_README.md",
       "files": {
@@ -237,9 +237,9 @@
     {
       "name": "Zailfyers Mod Pack",
       "author": "Zailfyer",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "compatibility": "w92",
-      "description": "Includes all my mods",
+      "description": "Includes all my mods see README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZMP_README.md",
       "files": {
