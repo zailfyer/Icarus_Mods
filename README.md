@@ -32,6 +32,7 @@ Some mods I have created for Icarus
 * CX 400 auto wood pickup and stamina regen bonus and removed 1% instant chop and mine
 * Cured Leather higher health and stamina regen and exposure resistance
 * Wayfarer movement speed boost, heat resistance, and increased desert exposure resistnace
+* Obsidian armor has increased exposure resistances and better fire damage resistance
 
 # Zailfyers Backpacks
 * Leather Backpack has better carry weight buff, and better ore, wood, and stone weight reductions
@@ -105,7 +106,13 @@ Some mods I have created for Icarus
 
 # Zailfyers Starter Kits
 * NEW kit in workshop for tier 3 benches
-	* Machineing bence, concrete furncace, forge, advaced textiles bench, concrete mixer, biofule composter, and advance masonry bench
+	* Machineing bence
+	* concrete furncace
+	* forge
+	* advaced textiles bench
+	* concrete mixer
+	* biofule composter
+	* and advance masonry bench
 * NEW lit in workshop for tier 4 benches
 	* fabricator
 	* electrice furnace
@@ -123,6 +130,8 @@ Some mods I have created for Icarus
 * many stack counts increased
 * electronics are cheeper
 * electric lights are cheeper
+* Material processor is cheeper
+* electric furnace is cheeper
 
 # Zailfyers Workshop Tools
 * Reworks all the damage and durability of workshop tools to be closer to the craftable versions
