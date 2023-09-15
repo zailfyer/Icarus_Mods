@@ -7,4 +7,5 @@
 * CX 400 auto wood pickup and stamina regen bonus and removed 1% instant chop and mine
 * Cured Leather higher health and stamina regen and exposure resistance
 * Wayfarer movement speed boost, heat resistance, and increased desert exposure resistnace
+* Obsidian armor has increased exposure resistances and better fire damage resistance
 
