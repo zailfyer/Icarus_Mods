@@ -55,7 +55,7 @@
     {
       "name": "Zailfyers Backpacks",
       "author": "Zailfyer",
-      "version": "2.2.1",
+      "version": "2.2.2",
       "compatibility": "w93",
       "description": "changeds all the backpack stats and adds a new backpack. Refer to readme for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -94,7 +94,7 @@
     {
       "name": "Zailfyers Dropship",
       "author": "Zailfyer",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "compatibility": "w93",
       "description": "Drop ship has 20 slots, as well as the canteens, O2 bottles, and dropship grenades no longer auto equip to the quick bar",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -133,7 +133,7 @@
     {
       "name": "Zailfyers Exotics Extraction",
       "author": "Zailfyer",
-      "version": "2.2.1",
+      "version": "2.3.0",
       "compatibility": "w93",
       "description": "exotics and red exotics extract base 15, workshop drill has 66% drill speed, workshop power source has more power, spirit walk has between 3 and 6 exotic nodes, Organic Clenser produce Red Exotics faster. and farming strange plants produce seeds alongh with red exotics",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -224,7 +224,7 @@
     {
       "name": "Zailfyers Workshop Tools",
       "author": "Zailfyer",
-      "version": "2.1.1",
+      "version": "2.1.3",
       "compatibility": "w93",
       "description": "modifys nearly all the workshop tools and adds a new knife axe and pickaxe. see README for details.",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -237,7 +237,7 @@
     {
       "name": "Zailfyers Mod Pack",
       "author": "Zailfyer",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "compatibility": "w93",
       "description": "Includes all my mods see README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
