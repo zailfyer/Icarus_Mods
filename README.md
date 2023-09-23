@@ -16,12 +16,13 @@ Some mods I have created for Icarus
 * the file containing your charactors xp value shold be located C:\Users\:Username:\AppData\Local\Icarus\Saved\PlayerData\:IDNumber:\Characters.json
 * use the points as soon as you get them to avoid losing them. I think the next level up would give them back again but have not tested this.
 
-# Zailfyers Aluminum Building
-* Increases durability
-* Increases insulation
-* Increases wind and tree resistance
-* Increases stability
-* Changes recipe to use aluminum ingots insted of ore
+# Zailfyers Building Alterations
+* Increases durability of aluminum buildings
+* Increases insulation of aluminum buildings
+* Increases wind and tree resistance of aluminum buildings
+* Increases stability of aluminum buildings
+* Changes recipe of aluminum building peices to use aluminum ingots insted of ore
+* swaps the stats for scoria with scoria brick and clay brick making brick better than stone but not as good as concrete
 
 # Zailfyers Armor
 * Cloth added reduced water consumption and heat resistance
@@ -68,15 +69,15 @@ Some mods I have created for Icarus
 * Bulwark has 4 modual slots and water slot added
 
 # Zailfyers Exotics Extraction
-* exotics and Red exotics extract base 15
+* Exotics extract base 15s
+* Red Exotics extract 10s
 * workshop drill has 66% drill speed
 * workshop power source has more power
-* spirit walk has between 3 and 6 exotic nodes
 * Organic Clenser prosseses exotics faster
 * Strange Plants produce seeds when planted
 * planted Strange Plants have less fatigue
 * Strange Plants in the wild can yieald more exotics
-* Tomatos and Potatos harvested in the wild have a 1% chance to produce Red Exsotic Plant seeds
+* Tomatos and Potatos harvested in the wild have a small chance to produce Red Exsotic Plant seeds
 
 # Zailfyers Energy Prodcution
 * Biofule Generator produces 7500
@@ -93,38 +94,52 @@ Some mods I have created for Icarus
 * NEW Tinentibus Module give instant chop and instant mine chance
 * NEW Mass Dampener II Module give higher speed buff and reduces stamina consumed wile sprinting
 
+# Zailfyers More World Bosses
+* increases world boss spawns on exploration prospects
+* dose NOT include prometheus prospects at this time
+
 # Zailfyers Rebalanced Animal Loot
-* rebalances the loot drops from animals, does not include new frontiers animals yet
+* Rebalances animal loot drops
 
 # Zailfyers Rebalanced Rewards
 * Increases exotics and enzyme reward range for horde mode
 * Increases ice reward from shovel and hand pick up
 * increases wood amount from drift wood
 
+# Zailfyers Red Only Extraction
+* Red Exotics extract 10s
+* Organic Clenser prosseses exotics faster
+* Strange Plants produce seeds when planted
+* planted Strange Plants have less fatigue
+* Strange Plants in the wild can yieald more exotics
+* Tomatos and Potatos harvested in the wild have a small chance to produce Red Exsotic Plant seeds
+
 # Zailfyers Sledgehammer Talent
 * makes Miner Endurance I and Miner Endurance II Talents effect the sledgehammer as well
 
 # Zailfyers Starter Kits
-* NEW kit in workshop for tier 3 benches
+* NEW Kit in workshop for tier 3 benches
 	* Machineing bence
-	* concrete furncace
-	* forge
-	* advaced textiles bench
-	* concrete mixer
-	* biofule composter
-	* and advance masonry bench
-* NEW lit in workshop for tier 4 benches
-	* fabricator
-	* electrice furnace
-	* foundry
-	* biofule generator
-	* solar panel
-	* 3 wind turbines
-	* wireing tool
-	* electric masonry bench
-	* electric composter
-	* electric textiles bench
-	* material processor
+	* Concrete furncace
+	* Forge
+	* Advaced textiles bench
+	* Advance masonry bench
+* NEW Kit in workshop for tier 4 benches
+	* Fabricator
+	* Electrice furnace
+	* Foundry
+	* Electric masonry bench
+	* Electric textiles bench
+	* Material processor
+* NEW Kit in workshop for Power Production
+	* Biofule Generator
+	* Biofule can
+	* Solar Panel
+	* Water Wheel
+	* 2 Wind Turbines
+	* Wireing Tool
+	* Water Pump
+	* Hoseing Tool
 
 # Zailfyers Stacks Recipes
 * many stack counts increased
@@ -132,6 +147,11 @@ Some mods I have created for Icarus
 * electric lights are cheeper
 * Material processor is cheeper
 * electric furnace is cheeper
+
+# Zailfyers Unleashed Exotics
+* all exploration prospects spawn exotics from all posible locations
+* increased spawn amount to 3 - 6 nodes
+* increased defualt reasource amount 200 - 500
 
 # Zailfyers Workshop Tools
 * Reworks all the damage and durability of workshop tools to be closer to the craftable versions
@@ -142,13 +162,10 @@ Some mods I have created for Icarus
 * NEW Inaris "Venator" Knife the ultimat hunting tool
 * NEW Inaris "Delver" Pickaxe an ideal pickaxe for all your mineing needs
 
-# Zailfyers Mod Pack
-* includes all that is listed
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
 
 EASY INSTALLATION: use the mod manager by Jimk72 https://github.com/Jimk72/Icarus_Software
 
-MANUAL INSTALLATION: if you do not already have one, you need to create a new folder and name it 'mods' in the following directory - Disk > Program Files (x86) > steamapps > common > Icarus > Icarus > Content > Paks. Download desired .pak files, and drag and drop into the mods folder you created. Good to go!
+MANUAL INSTALLATION: if you do not already have one, you need to create a new folder and name it 'mods' in the following directory - Disk > Program Files (x86) > steamapps > common > Icarus > Icarus > Content > Paks. Download desired .pak file, and drag and drop into the mods folder you created. Good to go! multiple .pak files in the mods folder can cause isues with mods
