@@ -1,8 +1,5 @@
-# Zailfyers Exotics Extraction
-* Exotics extract base 15s
+# Zailfyers Red Only Extraction
 * Red Exotics extract 10s
-* workshop drill has 66% drill speed
-* workshop power source has more power
 * Organic Clenser prosseses exotics faster
 * Strange Plants produce seeds when planted
 * planted Strange Plants have less fatigue
