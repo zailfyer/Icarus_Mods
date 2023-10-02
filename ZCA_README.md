@@ -1,6 +1,6 @@
 # Zailfyers Charcoal and Ash
-* makes charcoal a fule for any thing that burns wood
-* reworks how to get charcoal and ash. Charcoal is made by prossesing it in a furnace like ore.
-* adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer
-* adds new item Ash can be used to make fertilizer at the Mortor and Pestel
-* makes speed and yeild fertilizer craftable in the Mortor and Pestal
+* Makes charcoal a fuel for anything that burns wood
+* Reworks how to get charcoal and ash. Charcoal is made by processing it in a furnace like ore.
+* Adds new item Activated charcoal whitch is used in some recipes and as fuel for the dehumidifier
+* Adds new item Ash can be used to make fertilizer at the Mortar and Pestle
+* Makes speed and yeild fertilizer craftable in the Mortar and Pestle

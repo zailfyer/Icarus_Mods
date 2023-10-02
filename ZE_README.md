@@ -6,4 +6,4 @@
 * Dongtian has extra cold resistance, damage resistance, and less perceived threat
 * Lua has less backpack slots, damage resistance, and less perceived threat
 * Haulire has water slot added and increases carry capacity
-* Bulwark has 4 modual slots and water slot added
+* Bulwark has 4 module slots and water slot added

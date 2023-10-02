@@ -1,2 +1,2 @@
 # Zailfyers Sledgehammer Talent
-* makes Miner Endurance I and Miner Endurance II Talents effect the sledgehammer as well
+* Makes Miner Endurance I and Miner Endurance II Talents affect the sledgehammer as well

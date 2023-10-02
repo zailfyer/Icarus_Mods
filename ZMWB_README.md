@@ -1,3 +1,3 @@
 # Zailfyers More World Bosses
-* increases world boss spawns on exploration prospects
-* dose NOT include prometheus prospects at this time
+* Increases world boss spawns on exploration prospects
+* Does NOT include Prometheus prospects at this time
