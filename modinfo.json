@@ -31,7 +31,7 @@
       "author": "Zailfyer",
       "version": "2.3.0",
       "compatibility": "w94",
-      "description": "Increases durability, insulation, wind, and tree resistance, Increases stability, and Changes recipe to use aluminum ingots insted of ore also makes scoria building stats the same as stone wile increasing both brick buildings to what scoria was (what i think was intended based on teir availibily)",
+      "description": "Alters Aluminum Buildings, makes scoria building stats the same as stone while increasing both brick buildings to what scoria was (what i think was intended based on tier availibily) Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAB_README.md",
       "files": {
@@ -40,11 +40,24 @@
       }
     },
     {
+      "name": "Zailfyers_Animal_Feeds",
+      "author": "Zailfyer",
+      "version": "1.0.0",
+      "compatibility": "w94",
+      "description": "Adds more animal feeds. Refer to README for details",
+      "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
+      "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAF_README.md",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Animal_Feeds_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Animal_Feeds.EXMODZ"
+      }
+    },
+    {
       "name": "Zailfyers Armor",
       "author": "Zailfyer",
       "version": "2.1.2",
       "compatibility": "w94",
-      "description": "Chnages many armor set bonuses. Refer to readme for details ",
+      "description": "Chnages many armor set bonuses. Refer to README for details ",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZA_README.md",
       "files": {
@@ -53,11 +66,24 @@
       }
     },
     {
+      "name": "Zailfyers Arrow Recipes",
+      "author": "Zailfyer",
+      "version": "1.0.0",
+      "compatibility": "w94",
+      "description": "Changes arrow recipes. Refer README for more details",
+      "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
+      "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAR_README.md",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Arrow_Recipes_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Arrow_Recipes.EXMODZ"
+      }
+    },
+    {
       "name": "Zailfyers Backpacks",
       "author": "Zailfyer",
       "version": "2.2.2",
       "compatibility": "w94",
-      "description": "changeds all the backpack stats and adds a new backpack. Refer to readme for details",
+      "description": "Changes all the backpack stats and adds a new backpack. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZB_README.md",
       "files": {
@@ -70,7 +96,7 @@
       "author": "Zailfyer",
       "version": "2.1.1",
       "compatibility": "w94",
-      "description": "makes charcoal a fule for any thing that burns wood, reworks how to get charcoal and ash, adds new item Activated charcoal wich is used in some recipes and as fule for the dehumidifyer, adds new item Ash can be used to make fertilizer",
+      "description": "Makes charcoal a fuel among other changes. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZCA_README.md",
       "files": {
@@ -94,9 +120,9 @@
     {
       "name": "Zailfyers Dropship",
       "author": "Zailfyer",
-      "version": "2.2.1",
+      "version": "2.2.2",
       "compatibility": "w94",
-      "description": "Drop ship has 20 slots, as well as the canteens, O2 bottles, and dropship grenades no longer auto equip to the quick bar",
+      "description": "Drop ship has 20 slots among other things. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZD_README.md",
       "files": {
@@ -109,7 +135,7 @@
       "author": "Zailfyer",
       "version": "1.2.1",
       "compatibility": "w94",
-      "description": "Changed the bio fule generator to produce 7500, the water wheel to produce 5000, and the wind turbine to produce 3000",
+      "description": "Changed the bio fuel generator to produce 7500, the water wheel to produce 5000, and the wind turbine to produce 3000",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZEP_README.md",
       "files": {
@@ -122,7 +148,7 @@
       "author": "Zailfyer",
       "version": "2.2.1",
       "compatibility": "w94",
-      "description": "Changes the stats granted by most of the envirosuits Refer to readme for details",
+      "description": "Changes the stats granted by most of the envirosuits. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZE_README.md",
       "files": {
@@ -135,7 +161,7 @@
       "author": "Zailfyer",
       "version": "2.4.0",
       "compatibility": "w94",
-      "description": "exotics extract base 15s, Red Exotics ectract 10s, workshop drill has 66% drill speed, workshop power source has more power, Organic Clenser produce Red Exotics faster, Tomatos and Potatos have a chance to give exotic seeds and farming strange plants produce seeds alongh with red exotics",
+      "description": "Changes a bunch of exotic extraction realated things. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZEE_README.md",
       "files": {
@@ -148,7 +174,7 @@
       "author": "Zailfyer",
       "version": "2.1.1",
       "compatibility": "w94",
-      "description": "modifys the stats of a number of modules and adds 2 new ones Refer to readme for details",
+      "description": "Changes the stats of a number of moduals and adds 2 new ones. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZM_README.md",
       "files": {
@@ -161,12 +187,25 @@
       "author": "Zailfyer",
       "version": "1.0.0",
       "compatibility": "w94",
-      "description": "increases the amount of world bosses to be spawned in exploration prospects",
+      "description": "Increases the amount of world bosses to be spawned in exploration prospects",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/",
       "files": {
           "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_More_World_Bosses_P.pak",
           "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_More_World_Bosses.EXMODZ"
+      }
+    },
+    {
+      "name": "Zailfyers_Mount_Improvments",
+      "author": "Zailfyer",
+      "version": "1.0.0",
+      "compatibility": "w94",
+      "description": "Improves Terrenus and Moa mounts",
+      "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
+      "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZMI_README.md",
+      "files": {
+          "pak": "https://github.com/zailfyer/Icarus_Mods/raw/main/Zailfyers_Mount_Improvments_P.pak",
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Mount_Improvments.EXMODZ"
       }
     },
     {
@@ -187,7 +226,7 @@
       "author": "Zailfyer",
       "version": "2.1.0",
       "compatibility": "w94",
-      "description": "Increases exotic and enzyme reward range for horde mode, increases ice for shovel and pickup",
+      "description": "Increases exotic and enzyme reward range for horde mode among other things. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZRR_README.md",
       "files": {
@@ -200,7 +239,7 @@
       "author": "Zailfyer",
       "version": "1.0.0",
       "compatibility": "w94",
-      "description": "Red exotics extract 10s, Organic Clenser produce Red Exotics faster, Tomato and Potato plants have a chance to give exotic seeds, and farming strange plants produce seeds alongh with red exotics",
+      "description": "Red exotics extraction changes only. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZROE_README.md",
       "files": {
@@ -213,7 +252,7 @@
       "author": "Zailfyer",
       "version": "1.0.0",
       "compatibility": "w94",
-      "description": "This mod makes the talent for pickaxe stamina cost also effect the sledgehammer.",
+      "description": "Makes the talent for pickaxe stamina cost also affect the sledgehammer.",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZST_README.md",
       "files": {
@@ -224,9 +263,9 @@
     {
       "name": "Zailfyers Stacks Recipes",
       "author": "Zailfyer",
-      "version": "2.1.1",
+      "version": "2.2.0",
       "compatibility": "w94",
-      "description": "many stack counts increased, and many recipies altered to be cheeper. see README for more details",
+      "description": "Many stack counts increased, and many recipies altered. Refer README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZSR_README.md",
       "files": {
@@ -252,7 +291,7 @@
       "author": "Zailfyer",
       "version": "1.0.0",
       "compatibility": "w94",
-      "description": "makes all exploration prospects pick from all posible node locations and increases the number of spawns as well as the amount gained from each node",
+      "description": "Changed exotic spawns for explortations. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZUE_README.md",
       "files": {
@@ -265,7 +304,7 @@
       "author": "Zailfyer",
       "version": "2.1.3",
       "compatibility": "w94",
-      "description": "modifys nearly all the workshop tools and adds a new knife axe and pickaxe. see README for details.",
+      "description": "Changes nearly all the workshop tools and adds a new knife, axe, and pickaxe. Refer to README for details.",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZWT_README.md",
       "files": {
