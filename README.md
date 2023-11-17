@@ -87,8 +87,8 @@ Some mods I have created for Icarus
 * Bulwark has 4 module slots and water slot added
 
 # Zailfyers Exotics Extraction
-* Exotics extract base 15s
-* Red Exotics extract 10s
+* Exotics extract base 12s per Exotic
+* Red Exotics extract 10s per Exotic
 * Workshop drill has 66% drill speed
 * Workshop power source has more power
 * Organic Clenser processes exotics faster
@@ -167,6 +167,7 @@ Some mods I have created for Icarus
 # Zailfyers Stacks Recipes
 * Many stack counts increased
 * Electronics are cheaper
+* NEW Electronics Batch Recipe
 * Electric lights are cheaper
 * Material processor is cheaper
 * Electric furnace is cheaper
