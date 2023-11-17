@@ -1,6 +1,6 @@
 # Zailfyers Exotics Extraction
-* Exotics extract base 15s
-* Red Exotics extract 10s
+* Exotics extract base 12s per Exotic
+* Red Exotics extract 10s per Exotic
 * Workshop drill has 66% drill speed
 * Workshop power source has more power
 * Organic Clenser processes exotics faster

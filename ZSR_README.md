@@ -1,6 +1,7 @@
 # Zailfyers Stacks Recipes
 * Many stack counts increased
 * Electronics are cheaper
+* NEW Electronics Batch Recipe
 * Electric lights are cheaper
 * Material processor is cheaper
 * Electric furnace is cheaper
