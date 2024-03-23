@@ -67,7 +67,10 @@ Some mods I have created for Icarus
 * Makes speed and yeild fertilizer craftable in the Mortar and Pestle
 
 # Zailfyers Deep Ore Extraction
-* Deep ore deposits have more ore and extract faster
+* Deep ore deposits extract faster
+
+# Zailfyers Deep Ore Extraction Limited
+* Deep ore deposits have limited ore (Like they used too) and extract faster
 
 # Zailfyers Dropship
 * Drop ship has 20 slots
