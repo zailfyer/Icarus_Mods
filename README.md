@@ -2,8 +2,10 @@
 Some mods I have created for Icarus
 
 # MXC Cot
-* Grants Access to the MXC Cot in the orbital workshop
-* Now you can drop in to a prospect with a bed!
+* Its no longer nesisary to have a mod to access the MXC Cot
+* changes the vanila location to the old modded location in the workshop
+* makes the MXC Cot require reseaching the MXC campfire
+* makes the MXC Cot lighter weight
 
 # Zailfyers 100 Level Cap
 * Incresed level cap to 100
@@ -203,5 +205,3 @@ Some mods I have created for Icarus
 DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together, so please do not put yourself in that situation. If you play with a regular group and they all want it, please recommend all parties install the mod to prevent adverse effects.
 
 EASY INSTALLATION: use the mod manager by Jimk72 https://github.com/Jimk72/Icarus_Software
-
-MANUAL INSTALLATION: if you do not already have one, you need to create a new folder and name it 'mods' in the following directory - Disk > Program Files (x86) > steamapps > common > Icarus > Icarus > Content > Paks. Download desired .pak file, and drag and drop into the mods folder you created. Good to go! multiple .pak files in the mods folder can cause isues with mods

@@ -3,27 +3,25 @@
     {
       "name": "MXC Cot",
       "author": "Zailfyer",
-      "version": "1.1.1",
+      "version": "2.0.0",
       "compatibility": "All",
-      "description": "Grants access to the MXC Cot in the orbital workshop",
+      "description": "modifyes the location and weight of the newly added MXC cot",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/MXCCOT_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/MXC_Cot.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/MXC_Cot.EXMODZ"
       }
     },
     {
       "name": "Zailfyers 100 Level Cap",
       "author": "Zailfyer",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "compatibility": "All",
       "description": "Increases max level to 100 with the same scale for points",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Z100_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_100_Level_Cap.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_100_Level_Cap.EXMODZ"
       }
     },
     {
@@ -35,8 +33,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZA_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Armor.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Armor.EXMODZ"
       }
     },
     {
@@ -48,8 +45,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAR_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Arrow_Recipes.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Arrow_Recipes.EXMODZ"
       }
     },
     {
@@ -61,8 +57,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZB_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Backpacks.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Backpacks.EXMODZ"
       }
     },
     {
@@ -74,8 +69,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAB_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Aluminum_Building.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Aluminum_Building.EXMODZ"
       }
     },
     {
@@ -87,8 +81,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZCA_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Charcoal_And_Ash.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Charcoal_And_Ash.EXMODZ"
       }
     },
     {
@@ -100,8 +93,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZDOE_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Deep_Ore_Extraction.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Deep_Ore_Extraction.EXMODZ"
       }
     },
     {
@@ -113,8 +105,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZDOEL_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Deep_Ore_Extraction_limited.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Deep_Ore_Extraction_limited.EXMODZ"
       }
     },
     {
@@ -126,21 +117,19 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZD_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Dropship.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Dropship.EXMODZ"
       }
     },
     {
       "name": "Zailfyers Energy Production",
       "author": "Zailfyer",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "compatibility": "All",
       "description": "Changed the bio fuel generator to produce 7500, the water wheel to produce 5000, and the wind turbine to produce 3000",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZEP_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Energy_Production.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Energy_Production.EXMODZ"
       }
     },
     {
@@ -152,8 +141,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZE_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Envirosuits.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Envirosuits.EXMODZ"
       }
     },
     {
@@ -165,8 +153,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZEE_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Exsotics_Extraction.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Exsotics_Extraction.EXMODZ"
       }
     },
     {
@@ -178,8 +165,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZM_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Moduals.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Moduals.EXMODZ"
       }
     },
     {
@@ -191,8 +177,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZMWB_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_More_World_Bosses.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_More_World_Bosses.EXMODZ"
       }
     },
     {
@@ -204,8 +189,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZRAL_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Rebalanced_Animal_Loot.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Rebalanced_Animal_Loot.EXMODZ"
       }
     },
     {
@@ -217,8 +201,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZRR_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Rebalanced_Rewards.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Rebalanced_Rewards.EXMODZ"
       }
     },
     {
@@ -230,8 +213,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZROE_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Red_Only_Extraction.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Red_Only_Extraction.EXMODZ"
       }
     },
     {
@@ -243,8 +225,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZST_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Sledgehammer_Talent.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Sledgehammer_Talent.EXMODZ"
       }
     },
     {
@@ -256,8 +237,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZSR_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Stacks_Recipes.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Stacks_Recipes.EXMODZ"
       }
     },
     {
@@ -269,8 +249,7 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZSK_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Starter_Kits.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Starter_Kits.EXMODZ"
       }
     },
     {
@@ -282,34 +261,31 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZUE_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Unleashed_Exotics.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Unleashed_Exotics.EXMODZ"
       }
     },
     {
       "name": "Zailfyers Workshop Tools",
       "author": "Zailfyer",
-      "version": "2.1.3",
+      "version": "2.1.4",
       "compatibility": "All",
       "description": "Changes nearly all the workshop tools and adds a new knife, axe, and pickaxe. Refer to README for details.",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZWT_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Workshop_Tools.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Workshop_Tools.EXMODZ"
       }
     },
     {
       "name": "Zailfyers_Animal_Feeds",
       "author": "Zailfyer",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "compatibility": "All",
       "description": "Adds more animal feeds. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZAF_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Animal_Feeds.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Animal_Feeds.EXMODZ"
       }
     },
     {
@@ -321,8 +297,19 @@
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
       "readmeURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/ZMI_README.md",
       "files": {
-          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Mount_Improvments.EXMODZ",
-          "pak": ""
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Zailfyers_Mount_Improvments.EXMODZ"
+      }
+    },
+    {
+      "name": "Usagi_Creature_Chaos_HI",
+      "author": "KiichigoUsagi/CKDexterHaven",
+      "version": "1.0.0",
+      "compatibility": "All",
+      "description": "Recreation of DexterHaven's Creature Chaos",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Usagi_Creature_Chaos_HI.EXMODZ"
       }
     }
    ]
