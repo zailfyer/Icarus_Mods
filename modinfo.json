@@ -63,7 +63,7 @@
     {
       "name": "Zailfyers Building Alterations",
       "author": "Zailfyer",
-      "version": "2.3.2",
+      "version": "2.3.3",
       "compatibility": "All",
       "description": "Alters Aluminum Buildings, makes scoria building stats the same as stone. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -87,7 +87,7 @@
     {
       "name": "Zailfyers Deep Ore Extraction",
       "author": "Zailfyer",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "compatibility": "All",
       "description": "Deep ore deposits extract faster",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -99,7 +99,7 @@
     {
       "name": "Zailfyers Deep Ore Extraction Limited",
       "author": "Zailfyer",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "compatibility": "All",
       "description": "Deep ore deposits have limited ore (like they uesed too) and extract faster",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
@@ -279,7 +279,7 @@
     {
       "name": "Zailfyers_Animal_Feeds",
       "author": "Zailfyer",
-      "version": "1.0.3",
+      "version": "1.1.0",
       "compatibility": "All",
       "description": "Adds more animal feeds. Refer to README for details",
       "imageURL": "https://github.com/zailfyer/Icarus_Mods/raw/Mod_Data/Zailfyer.png",
