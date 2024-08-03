@@ -1,6 +1,18 @@
 {
   "mods": [
     {
+      "name": "Aberiu's Supply Crates",
+      "author": "Aberiu",
+      "version": "1.0.0",
+      "compatibility": "All",
+      "description": "Add supply crates for styx resouces (requires red exotics to purchase)",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/zailfyer/Icarus_Mods/raw/EXMODZ/Aberiu_Supply_Crates.EXMODZ"
+      }
+    },
+    {
       "name": "MXC Cot",
       "author": "Zailfyer",
       "version": "2.0.0",
