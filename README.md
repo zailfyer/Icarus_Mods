@@ -28,6 +28,10 @@ Some mods I have created for Icarus
 * Carrot Treats
 	* grants a short term modifyer that increases stamina, health, and stamina regeneration as well as buff the mounts speed
 
+***NOTE***
+	*known issue with hand feeding currently don't have the knowlege to find or fix this issue but they still work from the feeding troughs
+
+
 # Zailfyers Armor
 * Cloth added reduced water consumption and heat resistance
 * Fur added cold resistance
